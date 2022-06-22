@@ -1,0 +1,33 @@
+{
+	"code":0,
+	"message":"OK",
+	"data":{
+		"content":"内容描述",
+		"banners":[
+			"1",
+			"2",
+			"3"
+		],
+		"tabs":[
+			{
+				"name":"商品详情",
+				"pictures":[
+					"4"
+				]
+			},
+			{
+				"name":"规格参数",
+				"pictures":[
+					"3"
+				]
+			}
+		],
+		"speifications":"规格参数",
+		"inventory":"商品中包含了那些东西的清单",
+		"id":1,
+		"name":"小米9 全网通",
+		"description":"这个手机贼牛逼，牛逼plus",
+		"price":34.00,
+		"thunb":"1"
+	}
+}
